@@ -3,7 +3,7 @@
 
 🌟 **About Me**
 
-- 🎓 2nd Year AIML Student at CMR Institute of Technology, Bengaluru  
+- 🎓 2nd Year AIML Student at CMR University, Bengaluru  
 - 💻 Exploring AI/ML, Computer Vision, MERN Stack, and Space Applications   
 - 🚀 Open to projects, collabs & mentorship!
 
