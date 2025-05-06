@@ -1,40 +1,78 @@
-<h1 align="center">Hi 👋, I'm Vaibhavi J Hiremath</h1>
-<h3 align="center">🚀 Budding AIML Engineer | Space Tech Explorer | MERN & ML Enthusiast</h3>
 
-🌟 **About Me**
+<html>
+</head>
+<body>
+  <h1> Vaibhavi J Hiremath</h1>
+  <div class="typewriter">🚀 Budding AIML Engineer | Space Tech Explorer | MERN & ML Enthusiast</div>
 
-- 🎓 2nd Year AIML Student at CMR University, Bengaluru  
-- 💻 Exploring AI/ML, Computer Vision, MERN Stack, and Space Applications   
-- 🚀 Open to projects, collabs & mentorship!
+  <a href="https://www.linkedin.com/in/vaibhavi-jagadeesh-hiremath-814742230" target="_blank" class="linkedin-btn">
+    Connect on LinkedIn
+  </a>
+</body>
+</html>
 
 
+### 🌌 Currently Working On
 
-🛠 **Tech Stack**
-
-**Frontend**  
-HTML | CSS | JavaScript | React | Tailwind CSS | Figma
-
-**Backend**  
-Node.js | Express.js | MongoDB | 
-
-**Databases & Tools**  
- Git | GitHub | 
-
-**Languages**  
-Python | C | C++ | Java
+- 🧠 **Machine Learning Models** for real-world use cases  
+- 🐍 **Python-based Projects** – automating, analyzing & innovating  
+- 🔎 **LLM (Large Language Models)** – experimenting with prompt engineering & APIs
 
 
 
+### 🛠️ Tech Stack
 
-📚 **Certifications**
-- 🌐 Generative AI (GUVI)
-- 🐍 Python Mega Course (Udemy)
+**Frontend:**  
+`HTML` | `CSS` | `JavaScript` | `React` | `Tailwind CSS` | `Figma`
+
+**Backend:**  
+`Node.js` | `Express.js` | `MongoDB`
+
+**Languages:**  
+`Python` | `C` | `C++` | `Java`
+
+**Tools & DevOps:**  
+`Git` | `GitHub`
+
+
+### 📚 Certifications
+
+- 🌐 *Generative AI*  
+- 🐍 *Python Mega Course* – Udemy  
+- 📊 *Applications of AI* – Great Learning  
+- 🎨 *Figma* – Simplilearn  
+- 🖼️ *Intro to Image Generation* – Google Cloud
+
+---
 
 
 
-📸 **Fun Fact**
+### 📸 Fun Fact
 
-When not coding, I’m capturing the world through my camera lens 📷
+> When I'm not coding, I'm capturing stories through my camera lens 📷
+
+
+
+
+🤝 Let's Collaborate!
+
+- 💡 AI/ML Projects  
+- 🌐 Web Dev (MERN Stack)  
+- 🚀 Space-Tech Explorations  
+- 📸 Photography + Tech Campaigns  
+- 📬 Mentorship, Internships & Hackathons
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
